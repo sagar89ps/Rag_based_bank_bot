@@ -1,0 +1,66 @@
+=== SBI BANK - LOAN POLICIES & ELIGIBILITY ===
+
+--- HOME LOAN ---
+Eligibility: Salaried employees (min ₹25,000/month), Self-employed (min 3 years business), age 18–70 years.
+Max Tenure: 30 years
+Processing Fee: 0.35% of loan amount (min ₹2,000, max ₹10,000) + GST
+Prepayment Charges: NIL for floating rate loans
+
+--- PERSONAL LOAN ---
+Eligibility: Salaried with min ₹15,000 net monthly income, age 21–58 years, min 2 years work experience.
+Amount: ₹25,000 to ₹20 lakh
+Tenure: 6 months to 6 years
+Processing Fee: 1.50% + GST
+
+--- CAR LOAN ---
+Eligibility: Salaried (min ₹2.5 lakh p.a.) or self-employed (min ₹4 lakh p.a.), age 21–67 years.
+Margin: 10–15% of vehicle cost
+Tenure: Up to 7 years
+Processing Fee: ₹1,000–₹1,500 + GST
+
+--- EDUCATION LOAN ---
+Courses Covered: Graduation, Post-graduation, Professional courses in India & abroad
+Collateral: Required above ₹7.5 lakh
+Moratorium: Course period + 1 year
+Tax Benefit: Interest deductible under Section 80E
+
+--- GOLD LOAN ---
+LTV Ratio: Up to 75% of gold value
+Interest Rate: 8.75% p.a. onwards
+Tenure: Up to 3 years
+Processing Fee: 0.50% + GST
+Minimum Loan: ₹20,000
+
+=== SBI BANK - ACCOUNT OPENING POLICY ===
+
+Savings Account Types:
+- Basic Savings Bank Deposit (BSBD): Zero balance, for all citizens
+- Regular Savings Account: Min ₹1,000 balance
+- SBI Salary Account: Zero balance for employees
+- SBI Senior Citizen Account: Extra FD rates + benefits
+- SBI Minor Account (Pehla Kadam): For children, joint with parent
+
+Documents Required (KYC):
+- Identity Proof: Aadhaar, PAN, Passport, Voter ID, Driving License
+- Address Proof: Aadhaar, utility bills (not older than 3 months), rental agreement
+- Photographs: 2 passport-size photos
+- For minors: Birth certificate + guardian ID proof
+
+=== INTEREST RATE POLICY ===
+
+Benchmark Rate: RLLR (Repo Linked Lending Rate) = Repo Rate + Spread
+Current Repo Rate: 6.50% (subject to RBI revision)
+MCLR (1-year): 8.85%
+
+Savings Account Interest: 2.70% p.a. up to ₹1 crore; 3.00% above ₹1 crore
+
+=== INSURANCE PRODUCTS ===
+
+SBI Life Insurance: Term plans, ULIPs, endowment plans — available via SBI branches
+SBI General Insurance: Home, health, motor, travel insurance
+SBI Annuity Deposit: Guaranteed monthly income scheme for retired individuals
+
+Pradhan Mantri Schemes via SBI:
+- PMJJBY (Jeevan Jyoti): ₹2 lakh life cover at ₹436/year
+- PMSBY (Suraksha Bima): ₹2 lakh accident cover at ₹20/year
+- APY (Atal Pension Yojana): Guaranteed pension ₹1,000–₹5,000/month

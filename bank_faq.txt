@@ -1,0 +1,98 @@
+=== SBI BANK - FREQUENTLY ASKED QUESTIONS ===
+
+--- ACCOUNTS ---
+
+Q: How do I open a savings account?
+A: To open a savings account at SBI Bank, visit your nearest branch with Aadhaar card, PAN card, passport-size photos, and an initial deposit of ₹500. You can also open an account online via the SBI YONO app with full KYC.
+
+Q: What is the minimum balance for a savings account?
+A: The minimum balance required is ₹1,000 for metro/urban branches, ₹500 for semi-urban, and ₹250 for rural branches. Non-maintenance charges of ₹5–₹15 per month apply if balance falls below minimum.
+
+Q: How do I check my account balance?
+A: You can check your balance via: SBI YONO app, Net Banking at onlinesbi.sbi, SMS banking by sending BAL to 09223766666, missed call on 09223766666, or ATM.
+
+Q: What are the types of accounts offered by SBI?
+A: SBI offers Savings Account, Current Account, Fixed Deposit (FD), Recurring Deposit (RD), Salary Account, Senior Citizen Savings Scheme (SCSS), Jan Dhan Account, and NRI accounts (NRE/NRO).
+
+--- LOANS ---
+
+Q: What home loan interest rates does SBI offer?
+A: SBI home loan interest rates start from 8.50% per annum (floating rate), based on CIBIL score and loan amount. Rates are linked to RLLR (Repo Linked Lending Rate). Women borrowers get a 0.05% concession.
+
+Q: What is the maximum home loan amount SBI provides?
+A: SBI provides home loans up to ₹50 crores depending on income, repayment capacity, and property value. LTV ratio is up to 80–90% of the property value.
+
+Q: What documents are required for a personal loan?
+A: Required documents: Identity proof (Aadhaar/PAN), address proof, last 3 months' salary slips, 6 months' bank statements, latest Form-16 or ITR, and passport-size photographs.
+
+Q: What is the interest rate for SBI personal loan?
+A: SBI personal loan interest rates range from 11.15% to 14.30% per annum based on credit score and employment type. Loan tenure is 6 months to 6 years.
+
+Q: How do I apply for a car loan at SBI?
+A: Apply online via YONO app or visit your branch. Car loan rates start from 8.75% p.a. Up to 90% of the on-road price is financed. Repayment tenure is up to 7 years. Required docs: income proof, ID proof, address proof.
+
+Q: What is SBI education loan interest rate?
+A: SBI education loan (SBI Student Loan) interest rates start at 8.15% p.a. for loans above ₹7.5 lakh with collateral. For loans up to ₹7.5 lakh (no collateral), rates are 10.85% p.a. Repayment begins 1 year after course completion.
+
+--- FIXED DEPOSITS ---
+
+Q: What are the FD interest rates at SBI?
+A: SBI FD rates (general public): 7 days–45 days: 3.50%, 46–179 days: 5.50%, 180–210 days: 6.25%, 211 days to less than 1 year: 6.50%, 1–2 years: 6.80%, 2–3 years: 7.00%, 3–5 years: 6.75%, 5–10 years: 6.50%. Senior citizens get 0.50% extra.
+
+Q: What is the minimum amount for FD in SBI?
+A: The minimum amount for opening an FD in SBI is ₹1,000. There is no maximum limit.
+
+Q: Can I break my FD before maturity?
+A: Yes. Premature withdrawal is allowed with a penalty of 0.50% to 1% on interest rate. Tax Saver FDs (5-year lock-in) cannot be withdrawn before maturity.
+
+--- CREDIT CARDS ---
+
+Q: What credit cards does SBI offer?
+A: SBI Card offers: SimplySAVE, SimplyCLICK, BPCL SBI Card, SBI Card PRIME, SBI Card ELITE, Cashback SBI Card, and co-branded cards with Yatra, Ola, etc.
+
+Q: What is the SBI credit card annual fee?
+A: Annual fees vary by card: SimplySAVE – ₹499, SimplyCLICK – ₹499, SBI Card PRIME – ₹2,999, SBI Card ELITE – ₹4,999. Fees are waived if annual spend exceeds the threshold limit.
+
+Q: How do I block my SBI credit card?
+A: To block your SBI credit card: Call SBI Card helpline 1860-180-1290, SMS BLOCK XXXX (last 4 digits) to 5676791, use SBI Card app, or net banking.
+
+--- NET BANKING & DIGITAL ---
+
+Q: How do I register for SBI Net Banking?
+A: Visit your branch or go to onlinesbi.sbi, click "New User Registration", enter account number, CIF number, branch code, and registered mobile number. OTP will be sent for verification.
+
+Q: What is SBI YONO app?
+A: YONO (You Only Need One) is SBI's integrated digital banking platform available on Android and iOS. It offers account management, loans, investments, insurance, shopping, and UPI payments in one app.
+
+Q: What is the UPI ID for SBI?
+A: Your SBI UPI ID format is yourmobilenumber@sbi. You can set it up via YONO app or BHIM app.
+
+--- CUSTOMER SUPPORT ---
+
+Q: What is SBI's customer care number?
+A: SBI customer care: Toll-free 1800-11-2211, 1800-425-3800. For SBI Card: 1860-180-1290. Available 24x7.
+
+Q: How do I file a complaint with SBI?
+A: File complaints via: SBI website grievance portal, YONO app, email at cgm.csd@sbi.co.in, visit branch, or escalate to Banking Ombudsman if unresolved within 30 days.
+
+Q: What are SBI branch working hours?
+A: SBI branches generally work Monday to Friday: 10:00 AM to 4:00 PM, and Saturday: 10:00 AM to 1:00 PM. Branches are closed on 2nd and 4th Saturdays and all Sundays.
+
+--- KYC & SECURITY ---
+
+Q: How do I update KYC in SBI?
+A: Submit updated Aadhaar, PAN, and address proof at your home branch. You can also update KYC online via YONO app by uploading documents for Aadhaar-based eKYC.
+
+Q: What should I do if I suspect fraud on my account?
+A: Immediately call 1930 (National Cyber Crime helpline), block your cards via SBI Card app or customer care, and report to your branch. Never share OTP, CVV, or PIN with anyone.
+
+--- NEFT / RTGS / IMPS ---
+
+Q: What are NEFT transaction timings at SBI?
+A: NEFT is available 24x7 including weekends and holidays. Funds are transferred in half-hourly batches. Charges: Up to ₹10,000 – ₹2.50; ₹10,001–₹1 lakh – ₹5; ₹1–2 lakh – ₹15; above ₹2 lakh – ₹25.
+
+Q: What is the RTGS minimum amount and timing?
+A: RTGS minimum transfer is ₹2 lakh. Available 24x7. Charges: ₹2–5 lakh – ₹25; above ₹5 lakh – ₹50.
+
+Q: What is IMPS and its limit?
+A: IMPS (Immediate Payment Service) allows instant 24x7 fund transfer up to ₹5 lakh per transaction. Charges range from ₹5 to ₹15 depending on amount.
