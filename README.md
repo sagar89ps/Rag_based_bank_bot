@@ -1,6 +1,6 @@
 # 🏦  Bank RAG Q&A Chatbot
 
-An intelligent, conversational chatbot for **Bank of India** built with **Retrieval-Augmented Generation (RAG)**.  
+An intelligent, conversational chatbot for **Bank** built with **Retrieval-Augmented Generation (RAG)**.  
 It answers customer queries about loans, accounts, FDs, credit cards, and more — grounded in official documents.
 
 ---
