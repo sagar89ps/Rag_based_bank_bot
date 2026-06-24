@@ -23,7 +23,7 @@ It answers customer queries about loans, accounts, FDs, credit cards, and more �
                     └───┬──────────────────────────┬───┘
                         │ Retrieval                 │ Generation
               ┌─────────▼──────────┐     ┌─────────▼──────────┐
-              │   FAISS / Chroma   │     │   OpenAI GPT-3.5/4  │
+              │   FAISS / Chroma   │     │   LLAMA 3 8B  │
               │  Vector Store      │     │   LLM               │
               └─────────┬──────────┘     └────────────────────┘
                         │ Embeddings
@@ -148,9 +148,9 @@ Returns `{ "status": "ok", "bank": "Bank", "bot": "Bank Assist" }`
 
 | Layer | Technology |
 |---|---|
-| LLM | OpenAI GPT-3.5-turbo / GPT-4 |
+| LLM | LLAMA 3 8B |
 | RAG Framework | LangChain |
-| Embeddings | OpenAI `text-embedding-3-small` |
+| Embeddings | hugging_face `BGE-3-small` |
 | Vector Store | FAISS (default) / ChromaDB |
 | Memory | ConversationBufferWindowMemory |
 | Document Loaders | PyMuPDF, docx2txt, TextLoader |
@@ -167,10 +167,10 @@ All settings in `.env`:
 
 | Variable | Default | Description |
 |---|---|---|
-| `OPENAI_API_KEY` | — | Required |
-| `LLM_MODEL` | `gpt-3.5-turbo` | LLM model name |
+| `HUGGING_FACE_API_KEY` | — | Required |
+| `LLM_MODEL` | `llama 3 8B` | LLM model name |
 | `LLM_TEMPERATURE` | `0.2` | Lower = more factual |
-| `EMBEDDING_MODEL` | `text-embedding-3-small` | Embedding model |
+| `EMBEDDING_MODEL` | `bge-3-small` | Embedding model |
 | `VECTORSTORE_TYPE` | `faiss` | `faiss` or `chroma` |
 | `CHUNK_SIZE` | `500` | Chars per chunk |
 | `CHUNK_OVERLAP` | `100` | Overlap between chunks |
