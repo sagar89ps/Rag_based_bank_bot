@@ -1,4 +1,4 @@
-# 🏦 SBI Bank RAG Q&A Chatbot
+# 🏦  Bank RAG Q&A Chatbot
 
 An intelligent, conversational chatbot for **State Bank of India** built with **Retrieval-Augmented Generation (RAG)**.  
 It answers customer queries about loans, accounts, FDs, credit cards, and more — grounded in official SBI documents.
