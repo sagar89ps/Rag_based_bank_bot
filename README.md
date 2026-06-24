@@ -57,7 +57,7 @@ bank-rag-chatbot/
 │
 ├── data/
 │   └── sample_docs/
-│       ├── bank_faq.txt      # SBI FAQ document
+│       ├── bank_faq.txt      # BankFAQ document
 │       └── loan_policy.txt   # Loan & account policies
 │
 ├── vectorstore/              # Auto-created by ingest.py
@@ -115,16 +115,16 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs) for Swagger UI.
 ```json
 // Request
 {
-  "question": "What is the SBI home loan interest rate?",
+  "question": "What is the Bank home loan interest rate?",
   "session_id": "user-123"   // optional; auto-generated if omitted
 }
 
 // Response
 {
   "session_id": "user-123",
-  "answer": "SBI home loan interest rates start from 8.50% per annum...",
+  "answer": "Bank home loan interest rates start from 8.50% per annum...",
   "sources": ["loan_policy.txt"],
-  "bot_name": "SBI Assist"
+  "bot_name": "Bank Assist"
 }
 ```
 
@@ -132,7 +132,7 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs) for Swagger UI.
 Clears conversation memory for a session.
 
 ### `GET /health`
-Returns `{ "status": "ok", "bank": "SBI Bank", "bot": "SBI Assist" }`
+Returns `{ "status": "ok", "bank": "Bank", "bot": "Bank Assist" }`
 
 ---
 
@@ -192,4 +192,4 @@ MIT — free to use and extend for educational / commercial purposes.
 
 ---
 
-*Built for SBI Bank customer service automation using Retrieval-Augmented Generation.*
+*Built for Bank customer service automation using Retrieval-Augmented Generation.*
